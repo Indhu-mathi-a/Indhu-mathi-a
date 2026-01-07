@@ -50,10 +50,12 @@ I believe consistent practice and real projects are the best way to grow.
 
 🔹 **Women Safety Data Analysis**  
 🔹 **Student Marks Management System**  
+🔹 **Road Accident Analysis and Risk Identification**
 🔹 **Telco Customer Churn Analysis**  
 🔹 **Hospital Appointment No-Show Analysis**  
 🔹 **Calculator (Web)**  
 🔹 **To-Do List (Web)**  
+
 
 ---
 
